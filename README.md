@@ -1,5 +1,8 @@
 # 2021 Software Engineering Apprenticeship Assignment
 
+## string_to_cut
+
+<br>
 ## **Contents**
 
 - [Discription](#Discription)
@@ -14,7 +17,7 @@ and returns a JSON object with the key <code>“return_string”</code> and a st
 ## **Routes**
 
 - `GET` '/' : get a welcome message.
-- `POST` '/test/' : returns the cut string.
+- `POST` '/test/' : returns the cut string.d
 
 ## **How to run**
 
